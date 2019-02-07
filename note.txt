@@ -1,1 +1,2 @@
 This is to make the notes.
+Downloaded the Git indstructions pdf to do a simple example.
